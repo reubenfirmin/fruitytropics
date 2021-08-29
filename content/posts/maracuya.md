@@ -2,7 +2,7 @@
 title: "Maracuya"
 date: 2021-08-29T15:12:14-06:00
 image: maracuya.jpg
-draft: true
+draft: false
 ---
 
 # Maracuya (Passion Fruit)
