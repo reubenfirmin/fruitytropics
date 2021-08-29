@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Fruity Tropics</title>
-    <link>http://fruitytropics.com/</link>
+    <link>/</link>
     <description>Recent content on The Fruity Tropics</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 29 Aug 2021 15:37:47 -0600</lastBuildDate><atom:link href="http://fruitytropics.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 29 Aug 2021 15:37:47 -0600</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Granadilla</title>
-      <link>http://fruitytropics.com/posts/granadilla/</link>
+      <link>/posts/granadilla/</link>
       <pubDate>Sun, 29 Aug 2021 15:37:47 -0600</pubDate>
       
-      <guid>http://fruitytropics.com/posts/granadilla/</guid>
+      <guid>/posts/granadilla/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Maracuya</title>
-      <link>http://fruitytropics.com/posts/maracuya/</link>
+      <link>/posts/maracuya/</link>
       <pubDate>Sun, 29 Aug 2021 15:12:14 -0600</pubDate>
       
-      <guid>http://fruitytropics.com/posts/maracuya/</guid>
+      <guid>/posts/maracuya/</guid>
       <description>Maracuya (Passion Fruit) Passiflora edulis.
 Passion Fruit, or Maracuya in Spanish, is one of 550 species of the genus Passiflora. Commonly available from farmers markets in Costa Rica, it&amp;rsquo;s a oval yellow fruit, typically around the size of an apple. It has a firm outer shell containing a pulpy/juicy mass fruit and seeds inside. Typically we will cut it in half, scoop out the insides and use them in smoothies, although it&amp;rsquo;s also delicious over yogurt.</description>
     </item>
