@@ -53,7 +53,7 @@ This little fella popped up on a gravel path, perhaps eliminated in place by _ca
 
 ![Compost papaya](/images/papaya-4.JPG)
 
-If you keep a compost pile, sooner or later you will get some volunteer Papayas popping up. This cluster of three plants is around 4 months old, and are already around 5 feet tall.
+If you keep a compost pile, sooner or later you will get some volunteer papayas popping up. This cluster of three plants is around 4 months old, and are already around 5 feet tall.
 
 ### Nursery Papayas
 
