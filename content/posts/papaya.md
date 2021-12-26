@@ -5,9 +5,9 @@ image: papaya.png
 draft: false
 ---
 
-_Carica Papaya L._
-
 # Papaya
+
+_Carica Papaya L._
 
 Papaya is a mainstay of Latin American cuisine, and is likely native to the Americas. The plants are "tree like", in that they have a soft woody stem, large lobed leaves, and grow to around 10 meters. However, they taper off in fruiting productivity at a relatively young age, and are frequently cut down at only 5 or 6 years old. Enormously productive, a single plant can produce 80 pounds of fruit in a single year, once fruiting gets underway (often around 6 months after planting.) Plants can be male, female, or hermaphrodite; the males do not fruit, but provide pollen necessary for female flowers to fruit. Hermaphrodites are (of course!) preferred. 
 
