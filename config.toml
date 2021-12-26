@@ -2,4 +2,6 @@ baseURL = "http://fruitytropics.com"
 languageCode = "en-us"
 title = "The Fruity Tropics"
 theme = "newsroom"
+useRelativeUrls = true
 relativeURLs = true
+uglyURLs = true

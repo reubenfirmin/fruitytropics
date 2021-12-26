@@ -2,7 +2,7 @@
 title: "Mango"
 date: 2021-12-26
 image: mango.jpg
-draft: true
+draft: false
 ---
 
 _Mangifera indica L._

@@ -3,17 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://fruitytropics.com/posts/maracuya/</loc>
+    <loc>http://fruitytropics.com/posts/mango.html</loc>
     <lastmod>2021-12-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://fruitytropics.com/posts/papaya/</loc>
+    <loc>http://fruitytropics.com/posts/maracuya.html</loc>
     <lastmod>2021-12-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://fruitytropics.com/posts/</loc>
+    <loc>http://fruitytropics.com/posts/papaya.html</loc>
+    <lastmod>2021-12-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://fruitytropics.com/posts.html</loc>
     <lastmod>2021-12-26T00:00:00+00:00</lastmod>
   </url>
   
@@ -23,16 +28,16 @@
   </url>
   
   <url>
-    <loc>http://fruitytropics.com/posts/granadilla/</loc>
+    <loc>http://fruitytropics.com/posts/granadilla.html</loc>
     <lastmod>2021-08-29T15:37:47-06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://fruitytropics.com/categories/</loc>
+    <loc>http://fruitytropics.com/categories.html</loc>
   </url>
   
   <url>
-    <loc>http://fruitytropics.com/tags/</loc>
+    <loc>http://fruitytropics.com/tags.html</loc>
   </url>
   
 </urlset>
