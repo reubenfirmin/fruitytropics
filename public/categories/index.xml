@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on The Fruity Tropics</title>
-    <link>http://fruitytropics.com/categories.html</link>
+    <link>https://fruitytropics.com/categories.html</link>
     <description>Recent content in Categories on The Fruity Tropics</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://fruitytropics.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://fruitytropics.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

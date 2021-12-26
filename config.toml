@@ -1,4 +1,4 @@
-baseURL = "http://fruitytropics.com"
+baseURL = "https://fruitytropics.com"
 languageCode = "en-us"
 title = "The Fruity Tropics"
 theme = "newsroom"
