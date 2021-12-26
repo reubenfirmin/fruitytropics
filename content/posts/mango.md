@@ -5,9 +5,9 @@ image: mango.jpg
 draft: false
 ---
 
-_Mangifera indica L._
-
 # Mango
+
+_Mangifera indica L._
 
 Mango is an evergreen tree native to southern Asia, imported to the Americas in the sixteenth century. It can be pruned to remain a manageable size, but given the opportunity will grow to 40 meters in height. It bears a delicious sweet oblong fruit which can get to 10" in length, with a thin skin protecting a yellow juicy flesh around a large central seed. 
 
