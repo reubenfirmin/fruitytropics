@@ -1,5 +1,5 @@
 ---
-title: "Understory"
+title: "Understory Orchard"
 date: 2022-01-15
 image: terracipio.jpg
 draft: false
@@ -51,6 +51,6 @@ I then plotted out the trees on a diagram, for the most part putting the taller 
 
 # Planting
 
-Diagram done, there was nothing else to do but plant it out. After the trees were in, I planted in between them with the brazilian spinach, some bougainvillea cuttings that I'd rooted, and "good luck plant" to mark the paths.
+Diagram done, there was nothing else to do but plant it out. After the trees were in, I planted in between them with the brazilian spinach, some bougainvillea cuttings that I'd rooted, and "good luck plant" to mark the paths. We're currently going into dry season, which isn't exactly ideal for planting, but I will irrigate as the trees get established. I plan to interplant vanilla, edible ginger, and other small edibles over time.
 
 I'll make further posts to track the growth of all of these fruits, and update this post to show development of the orchard.
